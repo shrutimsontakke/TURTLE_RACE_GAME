@@ -49,8 +49,8 @@ Welcome to the **Turtle Race Game**! This Python project utilizes Turtle Graphic
 
 ## 📸 Screenshot
 
-![Turtle Race Screenshot](images/screenshot1.png)
-![Turtle Race Screenshot](images/screenshot2.png)
+![Turtle Race Screenshot](images/Screenshot1.png)
+![Turtle Race Screenshot](images/Screenshot2.png)
 
 ---
 
